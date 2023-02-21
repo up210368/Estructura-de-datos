@@ -1,0 +1,30 @@
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\bin\Debug\net6.0\Estructura de datos.exe
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\bin\Debug\net6.0\Estructura de datos.deps.json
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\bin\Debug\net6.0\Estructura de datos.runtimeconfig.json
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\bin\Debug\net6.0\Estructura de datos.dll
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\bin\Debug\net6.0\Estructura de datos.pdb
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\obj\Debug\net6.0\Estructura de datos.csproj.AssemblyReference.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\obj\Debug\net6.0\Estructura de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\obj\Debug\net6.0\Estructura de datos.AssemblyInfoInputs.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\obj\Debug\net6.0\Estructura de datos.AssemblyInfo.cs
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\obj\Debug\net6.0\Estructura de datos.csproj.CoreCompileInputs.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\obj\Debug\net6.0\Estructura de datos.dll
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\obj\Debug\net6.0\refint\Estructura de datos.dll
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\obj\Debug\net6.0\Estructura de datos.pdb
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\obj\Debug\net6.0\Estructura de datos.genruntimeconfig.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos\Estructura de datos\obj\Debug\net6.0\ref\Estructura de datos.dll
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\bin\Debug\net6.0\Estructura de datos.exe
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\bin\Debug\net6.0\Estructura de datos.deps.json
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\bin\Debug\net6.0\Estructura de datos.runtimeconfig.json
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\bin\Debug\net6.0\Estructura de datos.dll
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\bin\Debug\net6.0\Estructura de datos.pdb
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\obj\Debug\net6.0\Estructura de datos.csproj.AssemblyReference.cache
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\obj\Debug\net6.0\Estructura de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\obj\Debug\net6.0\Estructura de datos.AssemblyInfoInputs.cache
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\obj\Debug\net6.0\Estructura de datos.AssemblyInfo.cs
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\obj\Debug\net6.0\Estructura de datos.csproj.CoreCompileInputs.cache
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\obj\Debug\net6.0\Estructura de datos.dll
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\obj\Debug\net6.0\refint\Estructura de datos.dll
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\obj\Debug\net6.0\Estructura de datos.pdb
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\obj\Debug\net6.0\Estructura de datos.genruntimeconfig.cache
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 1\Estructura de datos1\Estructura de datos\obj\Debug\net6.0\ref\Estructura de datos.dll

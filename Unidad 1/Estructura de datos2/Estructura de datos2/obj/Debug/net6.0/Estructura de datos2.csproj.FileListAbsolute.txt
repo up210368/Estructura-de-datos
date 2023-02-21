@@ -1,0 +1,15 @@
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\obj\Debug\net6.0\Estructura de datos2.csproj.AssemblyReference.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\obj\Debug\net6.0\Estructura de datos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\obj\Debug\net6.0\Estructura de datos2.AssemblyInfoInputs.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\obj\Debug\net6.0\Estructura de datos2.AssemblyInfo.cs
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\obj\Debug\net6.0\Estructura de datos2.csproj.CoreCompileInputs.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\bin\Debug\net6.0\Estructura de datos2.exe
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\bin\Debug\net6.0\Estructura de datos2.deps.json
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\bin\Debug\net6.0\Estructura de datos2.runtimeconfig.json
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\bin\Debug\net6.0\Estructura de datos2.dll
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\bin\Debug\net6.0\Estructura de datos2.pdb
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\obj\Debug\net6.0\Estructura de datos2.dll
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\obj\Debug\net6.0\refint\Estructura de datos2.dll
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\obj\Debug\net6.0\Estructura de datos2.pdb
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\obj\Debug\net6.0\Estructura de datos2.genruntimeconfig.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos2\Estructura de datos2\obj\Debug\net6.0\ref\Estructura de datos2.dll
