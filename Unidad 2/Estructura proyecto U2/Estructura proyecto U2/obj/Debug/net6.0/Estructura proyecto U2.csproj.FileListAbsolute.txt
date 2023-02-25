@@ -1,0 +1,30 @@
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\bin\Debug\net6.0\Estructura proyecto U2.exe
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\bin\Debug\net6.0\Estructura proyecto U2.deps.json
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\bin\Debug\net6.0\Estructura proyecto U2.runtimeconfig.json
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\bin\Debug\net6.0\Estructura proyecto U2.dll
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\bin\Debug\net6.0\Estructura proyecto U2.pdb
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.csproj.AssemblyReference.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.AssemblyInfoInputs.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.AssemblyInfo.cs
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.csproj.CoreCompileInputs.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.dll
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\refint\Estructura proyecto U2.dll
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.pdb
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.genruntimeconfig.cache
+C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\ref\Estructura proyecto U2.dll
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\bin\Debug\net6.0\Estructura proyecto U2.exe
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\bin\Debug\net6.0\Estructura proyecto U2.deps.json
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\bin\Debug\net6.0\Estructura proyecto U2.runtimeconfig.json
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\bin\Debug\net6.0\Estructura proyecto U2.dll
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\bin\Debug\net6.0\Estructura proyecto U2.pdb
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.csproj.AssemblyReference.cache
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.AssemblyInfoInputs.cache
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.AssemblyInfo.cs
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.csproj.CoreCompileInputs.cache
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.dll
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\refint\Estructura proyecto U2.dll
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.pdb
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\Estructura proyecto U2.genruntimeconfig.cache
+C:\Users\Jona_\OneDrive\Escritorio\Estructura-de-datos\Unidad 2\Estructura proyecto U2\Estructura proyecto U2\obj\Debug\net6.0\ref\Estructura proyecto U2.dll
