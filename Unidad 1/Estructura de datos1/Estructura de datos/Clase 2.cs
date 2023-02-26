@@ -9,6 +9,7 @@ namespace clase2
             double c = 33;
             int y = 2;
             x <<= 3; // agrega 0´s al lado contrario del bit = 0010 1000b = 40d
+            Console.WriteLine("█");
             Console.WriteLine(x);
             Console.WriteLine(y == x); // equal to
             Console.WriteLine(Math.Max(x, y)); // mayor numero entre ""

@@ -13,3 +13,18 @@ C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos.1\Estructura de
 C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos.1\Estructura de datos.1\obj\Debug\net6.0\Estructura de datos.1.pdb
 C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos.1\Estructura de datos.1\obj\Debug\net6.0\Estructura de datos.1.genruntimeconfig.cache
 C:\Users\Jona_\OneDrive\Escritorio\isaitonto\Estructura de datos.1\Estructura de datos.1\obj\Debug\net6.0\ref\Estructura de datos.1.dll
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\bin\Debug\net6.0\Estructura de datos.1.exe
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\bin\Debug\net6.0\Estructura de datos.1.deps.json
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\bin\Debug\net6.0\Estructura de datos.1.runtimeconfig.json
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\bin\Debug\net6.0\Estructura de datos.1.dll
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\bin\Debug\net6.0\Estructura de datos.1.pdb
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\obj\Debug\net6.0\Estructura de datos.1.csproj.AssemblyReference.cache
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\obj\Debug\net6.0\Estructura de datos.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\obj\Debug\net6.0\Estructura de datos.1.AssemblyInfoInputs.cache
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\obj\Debug\net6.0\Estructura de datos.1.AssemblyInfo.cs
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\obj\Debug\net6.0\Estructura de datos.1.csproj.CoreCompileInputs.cache
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\obj\Debug\net6.0\Estructura de datos.1.dll
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\obj\Debug\net6.0\refint\Estructura de datos.1.dll
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\obj\Debug\net6.0\Estructura de datos.1.pdb
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\obj\Debug\net6.0\Estructura de datos.1.genruntimeconfig.cache
+C:\Users\isai4470\Desktop\programacion\Visual Studio Community\Estructura-de-datos\Unidad 1\Estructura de datos1.1\Estructura de datos.1\obj\Debug\net6.0\ref\Estructura de datos.1.dll

@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jona_\\.nuget\\packages\\": {},
+    "C:\\Users\\isai4470\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jona_\\OneDrive\\Escritorio\\Estructura-de-datos\\Unidad 2\\Estructura proyecto U2\\Estructura proyecto U2\\Estructura proyecto U2.csproj",
+      "projectUniqueName": "C:\\Users\\isai4470\\Desktop\\programacion\\Visual Studio Community\\Estructura-de-datos\\Unidad 2\\Estructura proyecto U2\\Estructura proyecto U2\\Estructura proyecto U2.csproj",
       "projectName": "Estructura proyecto U2",
-      "projectPath": "C:\\Users\\Jona_\\OneDrive\\Escritorio\\Estructura-de-datos\\Unidad 2\\Estructura proyecto U2\\Estructura proyecto U2\\Estructura proyecto U2.csproj",
-      "packagesPath": "C:\\Users\\Jona_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jona_\\OneDrive\\Escritorio\\Estructura-de-datos\\Unidad 2\\Estructura proyecto U2\\Estructura proyecto U2\\obj\\",
+      "projectPath": "C:\\Users\\isai4470\\Desktop\\programacion\\Visual Studio Community\\Estructura-de-datos\\Unidad 2\\Estructura proyecto U2\\Estructura proyecto U2\\Estructura proyecto U2.csproj",
+      "packagesPath": "C:\\Users\\isai4470\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\isai4470\\Desktop\\programacion\\Visual Studio Community\\Estructura-de-datos\\Unidad 2\\Estructura proyecto U2\\Estructura proyecto U2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jona_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\isai4470\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
